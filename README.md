@@ -1,2 +1,2 @@
 # github-recitation-s22
-Recitation Demo
+In-n-out has the best burgers!
